@@ -1,0 +1,1 @@
+"BeforeInstall hook - nothing to do."
